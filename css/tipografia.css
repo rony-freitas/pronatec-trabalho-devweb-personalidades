@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'bitstream_vera_sans_monoroman';
+    src: url('../fontes/veramono-webfont.eot');
+    src: url('../fontes/veramono-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fontes/veramono-webfont.woff') format('woff'),
+         url('../fontes/veramono-webfont.ttf') format('truetype'),
+         url('../fontes/veramono-webfont.svg#bitstream_vera_sans_monoroman') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+@font-face {
+    font-family: 'aranearegular';
+    src: url('../fontes/aranea-webfont.eot');
+    src: url('../fontes/aranea-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fontes/aranea-webfont.woff') format('woff'),
+         url('../fontes/aranea-webfont.ttf') format('truetype'),
+         url('../fontes/aranea-webfont.svg#aranearegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+header h1 {
+	font-family: 'aranearegular';
+}
+
+#biografia{
+	font-family: 'bitstream_vera_sans_monoroman';
+}
+
+#titulo{
+	font-family: 'aranearegular';
+	font-weight:700;
+}
+
+
+

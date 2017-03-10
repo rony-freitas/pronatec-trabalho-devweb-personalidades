@@ -1,0 +1,125 @@
+/*---------BDOY---------*/
+
+body {
+	font-size:100%;
+}
+
+
+/*--------HEADER--------*/
+
+header {
+	background-image:url(../img/foto-5.jpg);
+	background-size:30%;
+	background-repeat:no-repeat;
+	background-position:100% 100%;
+	background-color:#C4C4C4;
+	padding:20px;
+	height:200px;
+}
+
+header h1 {
+	margin-top:60px;
+	font-size:4.8em;
+	width:100%;
+	text-align:center;
+	text
+}
+
+
+/*--------NAV-----------*/
+
+nav {
+	color:#FFF;
+	background-image: linear-gradient(to top , #1B1B1B, #383838);
+	background-image:-webkit-linear-gradient(to top , #1B1B1B, #383838);
+	background-image:-moz-linear-gradient(to top , #1B1B1B, #383838);
+	background-image:-ms-linear-gradient(to top , #1B1B1B, #383838);
+	background-image:-o-linear-gradient(to top , #1B1B1B, #383838);
+	
+	padding:10px;
+}
+
+nav a {
+	text-decoration:none;
+	color:#FFF;
+	padding: 0 9px;
+	text-shadow:1px 0 1px #000000;
+}
+
+nav a:hover {
+	text-decoration:underline;
+}
+
+#frase {
+	font-size:18px;
+	margin-top:4%;
+	width:20%;
+	margin-right:5%;
+	font-weight:bold;
+	text-align:center;
+	float:right;
+	font-style:italic;
+}
+
+#biografia {
+	font-weight:580;
+	width:60%;
+	text-indent:15px;
+	
+	margin-left:10%;
+	margin-top:3%;
+	
+	-moz-column-count:2;
+	-ms-column-count:2;
+	-o-column-count:2;
+	-webkit-column-count:2;
+	
+	-moz-column-gap:30px;
+	-ms-column-gap:30px;
+	-o-column-gap:30px;
+	-webkit-column-gap:30px;
+	
+	text-align:justify;	
+	
+	
+}
+
+#titulo{
+	width:60%;
+	margin-left:7%;
+	margin-top:5%;
+	text-align:center;
+	font-size:2.3em;
+	
+}
+
+section{
+	background-image:url(../img/foto-1.jpg);
+	background-repeat:no-repeat;
+	background-position:95% 100%;
+	background-size:20%;
+}
+
+footer{
+	padding:12px;
+	background-color:#000;
+	color:#FFF;
+	margin-top:20px;
+	height:100px;
+	
+	background-image:url(../img/cola.jpg);
+	background-repeat:no-repeat;
+	background-size:13%;
+
+}
+
+footer p{
+	font-size:18px;
+	margin-top:5%;
+	margin-left:10%;
+}
+
+	
+	
+	
+	
